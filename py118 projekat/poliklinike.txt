@@ -1,0 +1,3 @@
+ime_poliklinike/mesto/broj_telefona/lekari
+PhytonMedic/Beograd/0113223553/ID:021112,ID:021225,ID:0998877
+PhytonMedic/Nis/018322553/ID:021122,ID:021226,ID:033555,ID:044111

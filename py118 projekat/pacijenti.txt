@@ -1,0 +1,5 @@
+br_kartona/ime/prezime/adresa/broj_telefona/ID_lekara_opste_prakse
+100001/Nemanja/Stankovic/Niska 16b, 11130 Kaludjerica/06431335268/021122
+100002/Stanko/Stankovic/Palih boraca 2, 11000 Beograd/064222555/021112
+100003/Milica/Milic/Neznanog junaka 6, 18000 Nis/065223558/021122
+100004/Marija/Maric/Nepoznata 1, 10000 Pirot/0617788994/021112/100005/Misa/Stankovic/Niska/064554151/1

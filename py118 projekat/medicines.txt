@@ -1,0 +1,12 @@
+M1000/medicine_1/way_of_use_1
+M1001/medicine_2/way_of_use_2
+M1002/medicine_3/way_of_use_3
+M1003/medicine_4/way_of_use_4
+M1004/medicine_5/way_of_use_5
+M1005/medicine_5/way_of_use_6
+M1006/medicine_6/way_of_use_7
+M1007/medicine_7/way_of_use_8
+M1008/medicine_8/way_of_use_9
+M1009/medicine_9/way_of_use_10
+M1010/medicine_10/way_of_use_11
+M1011/medicine_11/way_of_use_12

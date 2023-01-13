@@ -1,0 +1,8 @@
+ime/prezime/ID_lekara/br_telefona/specijalnost
+Marko/Markovic/021122/0113492566/lekar_opste_prakse
+Milos/Milosevic/021225/0113456987/kardiolog
+Milica/Milic/021112/0113526789/lekar_opste_prakse
+Marija/Markovic/021226/0113526689/lekar_opste_prakse
+Dusko/Duskovic/033555/011555666/oftalmolog
+Petar/Petrovic/044111/018444999/nefrolog
+Marija/Maric/0998877/011222777/pulmolog
